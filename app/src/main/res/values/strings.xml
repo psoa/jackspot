@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Jackpot</string>
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">About</string>
+    <string name="last_lottery_number">Last Lottery</string>
+    <string name="date_last_lottery">Date</string>
+    <string name="lottery_selected_numbers">Numbers</string>
+    <string name="lottery_is_accumulated">Is Accumulated</string>
+    <string name="lottery_next_amount">Next Amount</string>
+    <string name="lottery_next_date">Next Date</string>
+    <string name="author">Tiago Novaes Dias</string>
+    <string name="version">1.0</string>
+    <string name="lottery_number">Numero</string>
+    <string name="lottery_date">04/22/1500</string>
+</resources>
